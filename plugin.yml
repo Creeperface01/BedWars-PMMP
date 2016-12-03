@@ -1,0 +1,25 @@
+name: BedWars
+version: 1.0
+api: 1.12.0
+main: BedWars\BedWars
+author: CreeperFace
+description: BedWars plugin
+depend: [MTCore]
+
+commands:
+    bw:
+        description: "main bedwars command"
+    blue:
+        description: "join to blue team"
+    red:
+        description: "join to red team"
+    yellow:
+        description: "join to yellow team"
+    green:
+        description: "join to green team"
+    lobby:
+        description: "send to main lobby"
+    stats:
+        description: "show your game stats"
+    vote:
+        description: "vote command"
