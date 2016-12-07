@@ -1,6 +1,6 @@
 name: BedWars
 version: 1.0
-api: 1.12.0
+api: 2.0.0
 main: BedWars\BedWars
 author: CreeperFace
 description: BedWars plugin
